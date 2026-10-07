@@ -1,4 +1,4 @@
-# vector-bench-dist
+# Vector Bench Dist
 
 > Empirical execution time profiling and statistical dispersion analysis comparing Python loop iterations against vectorized SIMD processing via NumPy.
 
